@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h3 align="center">A passionate developer from Venezuela</h3>
 
-- 🔭 I’m currently working on an [**Instagram clone**](https://github.com/Annimus1/igClone)
-
 - 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **Javascript, react, node, python and SQL.**
